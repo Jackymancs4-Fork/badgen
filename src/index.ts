@@ -1,5 +1,6 @@
 export { Verdana110 as calcWidth } from './calc-text-width'
 import { Verdana110 as calcWidth } from './calc-text-width'
+export { default as colorPresets } from './color-presets'
 import colorPresets from './color-presets'
 
 type StyleOption = 'flat' | 'classic'
